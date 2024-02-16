@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Langley": {
+      "commandName": "Project",
+      "commandLineArgs": "creep\r\n--excel-in-column=A\r\n--excel-in-row=1\r\n--excel-in=\"C:\\Users\\Bangonkali\\Downloads\\Language_master_2.2.xlsx\"\r\n--excel-out=\"C:\\Users\\Bangonkali\\Downloads\\Language_master_2.2-out.csv\"\r\n--include-dir=\"D:\\Projects\\hope-solution-v1_6\"\r\n--include-dir=\"D:\\Projects\\ffmpeg\""
+    }
+  }
+}
